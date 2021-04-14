@@ -1,0 +1,7 @@
+.DS_Store
+esercizi/.gradle
+esercizi/.idea
+esercizi/build
+simplechat/.idea
+esercizi/gradle
+*.iml
